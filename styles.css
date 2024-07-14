@@ -32,5 +32,6 @@ body {
     left: -31px;
     border-top-left-radius: 90px;
     border-top-right-radius: 10px;
+    transform: rotate(-45deg);
 
 }
