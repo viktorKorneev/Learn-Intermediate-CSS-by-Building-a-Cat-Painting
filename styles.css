@@ -73,3 +73,9 @@ body {
     border-top-left-radius: 90px;
     border-top-right-radius: 10px;
 }
+
+.cat-left-eye {
+    width: 30px;
+    height: 40px;
+    background-color: #000;
+}
