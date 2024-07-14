@@ -12,8 +12,13 @@ body {
     border: 1px solid #000;
     border-radius: 46%;
     background: linear-gradient(#5e5e5e 85%, #45454f 100%);
-    position: sticky;
+    position: absolute;
     top: 0;
+    left: 0;
+    right: 0 auto;
+    bottom: 0 auto;
+    margin: auto;
+    
 }
 
 .box {
